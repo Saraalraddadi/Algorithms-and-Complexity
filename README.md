@@ -15,7 +15,7 @@ g++ main.cpp
 
 ## Author
 
-* **Sara Alraddadi** - *Initial work* - [Sara-Alraddadi](https://github.com/Saraalraddadi)
+* **Sara Alraddadi** - *Initial work* - [Sara Alraddadi](https://github.com/Saraalraddadi)
 
 
 ## Acknowledgments
