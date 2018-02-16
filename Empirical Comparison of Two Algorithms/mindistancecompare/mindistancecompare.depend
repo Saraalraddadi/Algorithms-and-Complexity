@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495555965 source:c:\users\saul\documents\hatim\src\mindistancecompare\main.cpp
+	<iostream>
+	<cmath>
+	<climits>
+	<cstdlib>
+	<ctime>
+
