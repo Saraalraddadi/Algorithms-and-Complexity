@@ -20,4 +20,4 @@ g++ main.cpp
 
 ## Acknowledgments
 
-* For more information about the assignment please refer to (Pong-Game-Project/CAB301-Assignment-Specification.pdf).
+* For more information about the assignment please refer to (Algorithms-and-Complexity/Empirical Comparison of Two Algorithms/CAB301-Assignment-Specification.pdf).
